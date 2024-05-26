@@ -447,7 +447,7 @@
   "gui.nameBaby.title": "Bebek Adı",
   "gui.whistle.title": "Düdük",
   "gui.whistle.noFamily": "Bu bölgede hiçbir aile üyesi bulunamadı.",
-  "gui.village.left": "%s Bölgesinden Şimdi Ayrılıyorsunuz",
+  "gui.village.left": "%s Bölgesinden Ayrılıyorsunuz",
   "gui.village.welcome": "%s Bölgesine Hoş Geldiniz!",
   "gui.village.taxes": "%s Vergilerini ödemiş durumda!",
   "gui.village.taxes.no": "%s Vergilerini ödemediği için memnun.",
